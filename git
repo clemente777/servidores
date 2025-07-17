@@ -1,1 +1,27 @@
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título da Página</title>
+</head>
+<body>
+    
+<div class="content">
+            <div class="container1">
+                <div class="texto">
+                    <p>TELÉMEDICINA</p>
+                    <h1>VETERINÁRIA</h1>
+                    <P>"Sempre conectado pelo bem estar do seu pet, telemedicina veterinária 24 horas para cuidar com amor e tecnologia" </P>
+                    <button class="bot">Agende sua consulta</button>
+                    <button class="bt">Agende sua consulta</button>
+                </div>
+                <div class="img_container">
+                    <img class= "img" src=https://www.petconectadigital.com.br/source/files/c/18827/veterinario-verificando-a-saude-do-filhote_23-2148728396-783246_826-661-0-0.jpg alt="" height="500px" width="600px">
+                </div>
+                
+            </div>
+
+</body>
+</html>
